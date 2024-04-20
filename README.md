@@ -1,3 +1,4 @@
+<h6>GPT-Tokenizer</h6>
 <p>This repository contains a minimal, clean implementation of the Byte Pair Encoding (BPE) and SentencePiece algorithm, which are commonly used for tokenization in large language models (LLMs). The BPE algorithm operates at the byte level, processing UTF-8 encoded strings. This algorithm was popularized for LLMs by the <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">GPT-2</a> paper.
 SentencePiece operates at the subword level.It is particularly useful for handling out-of-vocabulary words and rare words in a robust manner. Today, all modern LLMs (e.g. GPT, Llama, Mistral) use these algorithm to train their tokenizers.</p>
 
