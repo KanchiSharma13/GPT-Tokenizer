@@ -12,7 +12,7 @@ SentencePiece operates at the subword level.It is particularly useful for handli
 
 <p>Finally, the script <a href="https://github.com/tanishkaa19/GPT-Tokenizer/blob/main/minbpe/train.py">train.py</a> trains the two major tokenizers on the input text<a href="https://github.com/tanishkaa19/GPT-Tokenizer/blob/main/taylorswift.txt"> taylorswift.txt</a> (this is the Wikipedia entry for her kek) and saves the vocab to disk for visualization.</p>
 <br>
-You can find the YouTube link for a detailed explanation <a href="https://youtu.be/g82MlcU60Iw?si=whNyR1r2u3MoN5L8">here!</a>
+<h4>You can find the YouTube link for a detailed explanation <a href="https://youtu.be/g82MlcU60Iw?si=whNyR1r2u3MoN5L8">here!</a></h4>
 <h2>Contributor</h2>
 <a href="https://github.com/KanchiSharma13">Kanchi Sharma</a>
 
